@@ -1,0 +1,21 @@
+body {
+    /* margin: 0;
+    padding: 0;
+    background: url(imagenes/ondas-de-colores-entrelazadas_7680x4320_xtrafondos.com.jpg);   
+    background-size: cover;
+    background-position: center; */
+    background-image: linear-gradient(#f7ba96,#82cde3);
+    font-family: sans-serif;
+    color:white;
+}
+.avatar{
+    width: 150px;
+    height: 120px;
+    border-radius: 50%;
+}
+.img-thumbnail{
+    width: 60px;
+    height: 60px;
+}
+textarea{resize: none;}
+
